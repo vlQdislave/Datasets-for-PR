@@ -1,4 +1,4 @@
-gender1,G2,Age,bmi,HbA1c_level,blood_glucose_level,smoking_history1,S2,S3,S4,S5,S6,hypertension,heart_disease
+#,gender1,G2,Age,bmi,HbA1c_level,blood_glucose_level,smoking_history1,S2,S3,S4,S5,S6,hypertension,heart_disease
 0,1.0,0.0,80.0,26.46947368421053,6.6,140.0,0.0,0.0,0.0,0.0,1.0,0.0,0,1
 1,1.0,0.0,54.0,27.32,6.6,80.0,1.0,0.0,0.0,0.0,0.0,0.0,0,0
 2,0.0,1.0,28.0,27.32,5.7,158.0,0.0,0.0,0.0,0.0,1.0,0.0,0,0
